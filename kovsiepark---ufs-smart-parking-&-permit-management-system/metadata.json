@@ -1,0 +1,8 @@
+{
+  "name": "KovsiePark - UFS Smart Parking & Permit Management System",
+  "description": "Centralized campus parking & permit management system for University of the Free State (UFS) featuring Student/Staff portals, Visitor pre-registration, ALPR boom gate security enforcement, real-time parking zones, payments, and admin management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
